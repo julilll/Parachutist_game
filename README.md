@@ -12,6 +12,7 @@ This is a simple HTML5 Canvas game developed in TypeScript. In this game, a plan
 
 ## Project Structure
 
+```
 project/
 ├── dist/ # Compiled JavaScript files
 │ ├── boat.js
@@ -33,7 +34,7 @@ project/
 ├── package.json # Node.js dependencies and scripts
 ├── tsconfig.json # TypeScript configuration
 └── README.md # Project documentation
-
+```
 
 ## Setup and Installation
 
